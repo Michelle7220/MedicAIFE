@@ -6,3 +6,5 @@
 6. API=http://localhost:8000/api
 7. SKIP_PREFLIGHT_CHECK=true
 8. run the command "npm install" in your terminal from the root
+
+The demo of the website : https://youtu.be/IW--6OUOPi4
